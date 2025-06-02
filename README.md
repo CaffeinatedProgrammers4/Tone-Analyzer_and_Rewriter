@@ -1,6 +1,6 @@
-# PDF to MarkDown Using LLM (Gemini)
+# Tone Analyzer and Rewriter
 
-This project is based on converting small PDFs to Markdown file format using LLM with custom formatting options.
+Convert tones of paragraphs and rewrite them according to your needs
 
 ## What is in this repo?
 
